@@ -1,7 +1,6 @@
 # Llistat d'usuaris de l'empresa
 
-
-## Departament de compres
+## Usuaris del departament de compres
 
 - Stanley Hudson
   Usuari: shudson
@@ -10,7 +9,7 @@
   Usuari: amartin
   Contrasenya: 730782
 
-## Departament de vendes
+## Usuaris del departament de vendes
 
 - Dwight Schrute
   Usuari: dschrute
@@ -21,3 +20,16 @@
 - Andy Bernard
   Usuari: abernard
   Contrasenya: 918642
+
+## Funcions del departament de compres
+
+- Consultar estoc de paper i sobres
+- Consultar preu de paper i sobres
+- Consultar capital
+- Comprar paper
+- Comprar sobres
+- Tancar la sessió
+
+## Funcions del departament de vendes
+
+- Coming soon...
