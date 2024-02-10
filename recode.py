@@ -2,7 +2,7 @@ import time
 import os
 
 def clear():
-    os.system('clear')
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 comptes = {
     "shudson": {"contrasenya": 1, "carrec": "compres"},
@@ -18,7 +18,9 @@ estocPaper = {"A6": 0, "A5": 0, "A4": 0, "A3": 0, "A2": 0}
 estocSobres = {"C6": 0, "C5": 0, "C4": 0, "C3": 0, "C2": 0}
 
 proveidors = ["PaperVIP", "ExpressPapereria", "Paper&Co"]
-compradorsZona1
+compradorsZona1 = ["Naturgraf", "ReciclatPrint", "Fustaprint"]
+compradorsZona2 = ["TecnoGràfic", "EcoArts", "FustaStamp"]
+compradorsZona3 = ["coScript", "SostenPack", "CelluArts"]
 
 # Inici de sessió
 print("Dunder Mifflin Paper Company - Gestor de clients")
