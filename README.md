@@ -29,6 +29,7 @@
 - Gestio de proveïdors (afegir/eliminar/veure)
 - Comprar paper
 - Comprar sobres
+- Estadístiques de compres
 - Tancar la sessió
 
 ## Funcions del departament de vendes
