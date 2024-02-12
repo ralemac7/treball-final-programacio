@@ -26,6 +26,7 @@
 - Consultar estoc de paper i sobres
 - Consultar preu de paper i sobres
 - Consultar capital
+- Gestio de proveïdors (afegir/eliminar/veure)
 - Comprar paper
 - Comprar sobres
 - Tancar la sessió
