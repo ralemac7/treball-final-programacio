@@ -21,6 +21,8 @@
   Usuari: abernard
   Contrasenya: 918642
 
+# Funcions per departament
+
 ## Funcions del departament de compres
 
 - Consultar estoc de paper i sobres
@@ -30,8 +32,13 @@
 - Comprar paper
 - Comprar sobres
 - Estadístiques de compres
-- Tancar la sessió
 
 ## Funcions del departament de vendes
 
-- Coming soon...
+- Consultar estoc de paper i sobres
+- Consultar preu de venda de paper i sobres
+- Consultar capital
+- Gestió de clients (afegir, eliminar o consultar)
+- Vendre paper
+- Vendre sobres
+- Estadístiques de vendes
